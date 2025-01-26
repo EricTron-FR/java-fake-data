@@ -1,0 +1,50 @@
+addresses:
+  streets:
+    types:
+      - Street
+      - Avenue
+      - Boulevard
+      - Road
+      - Lane
+    names:
+      - Oak
+      - Maple
+      - Main
+      - Park
+      - Lake
+      - River
+      - Hill
+      - Forest
+      - Valley
+      - Mountain
+
+  cities:
+    - name: Paris
+      country: FR
+      postcode: "75000"
+    - name: London
+      country: UK
+      postcode: "EC1A"
+    - name: New York
+      country: US
+      postcode: "10001"
+    - name: Rome
+      country: IT
+      postcode: "00100"
+
+  buildings:
+    numbers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    suffixes:
+      - A
+      - B
+      - C
+
+  countries:
+    - name: France
+      code: FR
+    - name: United Kingdom
+      code: UK
+    - name: United States
+      code: US
+    - name: Italy
+      code: IT

@@ -1,0 +1,38 @@
+mails:
+  gmail:
+    - user4070@gmail.com
+    - user6338@gmail.com
+    - user8223@gmail.com
+    - user9371@gmail.com
+    - user6863@gmail.com
+  hotmail:
+    - user9085@hotmail.com
+    - user7392@hotmail.com
+    - user1831@hotmail.com
+    - user2986@hotmail.com
+  proton:
+    - user1012@protonmail.com
+    - user2540@protonmail.com
+  yahoo:
+    - user8584@yahoo.com
+    - user2959@yahoo.com
+    - user2722@yahoo.com
+  outlook:
+    - user7882@outlook.com
+    - user6293@outlook.com
+    - user2853@outlook.com
+    - user4194@outlook.com
+    - user3672@outlook.com
+    - user2374@outlook.com
+  icloud:
+    - user4192@icloud.com
+    - user1760@icloud.com
+    - user7922@icloud.com
+    - user8697@icloud.com
+    - user9346@icloud.com
+    - user7665@icloud.com
+    - user5750@icloud.com
+  aol:
+    - user8375@aol.com
+    - user6082@aol.com
+    - user6560@aol.com
