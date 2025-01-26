@@ -37,32 +37,38 @@ public class Mail {
 
     public static String getIcloud(){
         Map<String, Map<String, List<String>>> data = loadYaml();
-        return data.get("mails").get("icloud").get(random.nextInt(data.size()));
+        List<String> mailList = data.get("mails").get("icloud");
+        return mailList.get(random.nextInt(mailList.size()));
     }
 
     public static String getHotmail(){
         Map<String, Map<String, List<String>>> data = loadYaml();
-        return data.get("mails").get("hotmail").get(random.nextInt(data.size()));
+        List<String> mailList = data.get("mails").get("hotmail");
+        return mailList.get(random.nextInt(mailList.size()));
     }
 
     public static String getAol(){
         Map<String, Map<String, List<String>>> data = loadYaml();
-        return data.get("mails").get("aol").get(random.nextInt(data.size()));
+        List<String> mailList = data.get("mails").get("aol");
+        return mailList.get(random.nextInt(mailList.size()));
     }
 
     public static String getYahoo(){
         Map<String, Map<String, List<String>>> data = loadYaml();
-        return data.get("mails").get("yahoo").get(random.nextInt(data.size()));
+        List<String> mailList = data.get("mails").get("yahoo");
+        return mailList.get(random.nextInt(mailList.size()));
     }
 
     public static String getProton(){
         Map<String, Map<String, List<String>>> data = loadYaml();
-        return data.get("mails").get("proton").get(random.nextInt(data.size()));
+        List<String> mailList = data.get("mails").get("proton");
+        return mailList.get(random.nextInt(mailList.size()));
     }
 
     public static String getGmail(){
         Map<String, Map<String, List<String>>> data = loadYaml();
-        return data.get("mails").get("gmail").get(random.nextInt(data.size()));
+        List<String> gmailList = data.get("mails").get("gmail");
+        return gmailList.get(random.nextInt(gmailList.size()));
     }
 
 
