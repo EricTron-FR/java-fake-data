@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class Mail {
     private static final Random random = new Random();
-
+git
     private static Map<String, Map<String, List<String>>> loadYaml() {
         Yaml yaml = new Yaml();
         InputStream inputStream = Names.class.getClassLoader().getResourceAsStream("mails.yml");
