@@ -1,0 +1,21 @@
+currencies:
+  EUR:
+    symbol: "€"
+    name: "Euro"
+    countries: ["France", "Germany", "Italy", "Spain", "Netherlands"]
+  USD:
+    symbol: "$"
+    name: "US Dollar"
+    countries: ["United States", "Panama", "Ecuador"]
+  GBP:
+    symbol: "£"
+    name: "British Pound"
+    countries: ["United Kingdom"]
+  JPY:
+    symbol: "¥"
+    name: "Japanese Yen"
+    countries: ["Japan"]
+  CHF:
+    symbol: "CHF"
+    name: "Swiss Franc"
+    countries: ["Switzerland", "Liechtenstein"]

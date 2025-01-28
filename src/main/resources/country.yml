@@ -1,0 +1,120 @@
+countries:
+  - name: "France"
+    capital: "Paris"
+    continent: "Europe"
+    region: "Western Europe"
+    languages: ["French"]
+    currency: "EUR"
+    code: "FR"
+    geography:
+      area: 551695
+      area_unit: "km²"
+      coastline_length: 3427
+      highest_point:
+        name: "Mont Blanc"
+        elevation: 4808
+        unit: "m"
+      climate: "Temperate"
+      terrain: ["Plains", "Alps", "Pyrenees"]
+      natural_resources: ["Coal", "Iron Ore", "Bauxite"]
+      major_cities:
+        - name: "Paris"
+          population: 2148271
+          coordinates:
+            latitude: 48.8566
+            longitude: 2.3522
+        - name: "Marseille"
+          population: 861635
+          coordinates:
+            latitude: 43.2965
+            longitude: 5.3698
+
+  - name: "Japan"
+    capital: "Tokyo"
+    continent: "Asia"
+    region: "East Asia"
+    languages: ["Japanese"]
+    currency: "JPY"
+    code: "JP"
+    geography:
+      area: 377975
+      area_unit: "km²"
+      coastline_length: 29751
+      highest_point:
+        name: "Mount Fuji"
+        elevation: 3776
+        unit: "m"
+      climate: "Varies from tropical to temperate"
+      terrain: ["Mostly rugged and mountainous"]
+      natural_resources: ["Fish", "Rice", "Copper", "Sulfur"]
+      major_cities:
+        - name: "Tokyo"
+          population: 37393128
+          coordinates:
+            latitude: 35.6762
+            longitude: 139.6503
+        - name: "Osaka"
+          population: 19165340
+          coordinates:
+            latitude: 34.6937
+            longitude: 135.5023
+
+  - name: "Brazil"
+    capital: "Brasília"
+    continent: "South America"
+    region: "South America"
+    languages: ["Portuguese"]
+    currency: "BRL"
+    code: "BR"
+    geography:
+      area: 8515770
+      area_unit: "km²"
+      coastline_length: 7491
+      highest_point:
+        name: "Pico da Neblina"
+        elevation: 2994
+        unit: "m"
+      climate: "Mostly tropical"
+      terrain: ["Amazon basin", "Coastal plain", "Highland"]
+      natural_resources: ["Iron Ore", "Gold", "Oil"]
+      major_cities:
+        - name: "São Paulo"
+          population: 22429800
+          coordinates:
+            latitude: -23.5505
+            longitude: -46.6333
+        - name: "Rio de Janeiro"
+          population: 13634274
+          coordinates:
+            latitude: -22.9068
+            longitude: -43.1729
+
+  - name: "Kenya"
+    capital: "Nairobi"
+    continent: "Africa"
+    region: "East Africa"
+    languages: ["Swahili", "English"]
+    currency: "KES"
+    code: "KE"
+    geography:
+      area: 580367
+      area_unit: "km²"
+      coastline_length: 536
+      highest_point:
+        name: "Mount Kenya"
+        elevation: 5199
+        unit: "m"
+      climate: "Varies from tropical to arid"
+      terrain: ["Low plains", "Central highlands", "Great Rift Valley"]
+      natural_resources: ["Limestone", "Soda ash", "Salt"]
+      major_cities:
+        - name: "Nairobi"
+          population: 4397073
+          coordinates:
+            latitude: -1.2921
+            longitude: 36.8219
+        - name: "Mombasa"
+          population: 1208333
+          coordinates:
+            latitude: -4.0435
+            longitude: 39.6682

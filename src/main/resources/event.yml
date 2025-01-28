@@ -1,0 +1,179 @@
+events:
+  concerts:
+    - name: "Summer Rock Festival"
+      venue: "Central Park"
+      capacity: 50000
+      type: "Outdoor"
+      datetime:
+        date: "2025-07-15"
+        time: "14:00"
+        duration: "8h"
+      location:
+        city: "New York"
+        country: "USA"
+        coordinates:
+          latitude: 40.7829
+          longitude: -73.9654
+      tickets:
+        price: 89.99
+        currency: "USD"
+        available: 5000
+      organizer:
+        name: "NYC Events"
+        contact: "info@nycevents.com"
+
+    - name: "Classical Night"
+      venue: "Royal Opera House"
+      capacity: 2500
+      type: "Indoor"
+      datetime:
+        date: "2025-06-20"
+        time: "19:30"
+        duration: "2h30"
+      location:
+        city: "London"
+        country: "UK"
+        coordinates:
+          latitude: 51.5133
+          longitude: -0.1217
+      tickets:
+        price: 75.00
+        currency: "GBP"
+        available: 500
+      organizer:
+        name: "Royal Opera House"
+        contact: "booking@roh.org.uk"
+
+    - name: "Jazz Evening"
+      venue: "Blue Note"
+      capacity: 1200
+      type: "Indoor"
+      datetime:
+        date: "2025-08-10"
+        time: "20:00"
+        duration: "3h"
+      location:
+        city: "Paris"
+        country: "France"
+        coordinates:
+          latitude: 48.8566
+          longitude: 2.3522
+      tickets:
+        price: 65.00
+        currency: "EUR"
+        available: 200
+      organizer:
+        name: "Paris Jazz Club"
+        contact: "reservations@parisjazz.fr"
+
+  conferences:
+    - name: "Tech Summit 2025"
+      venue: "Convention Center"
+      capacity: 3000
+      type: "Business"
+      datetime:
+        date: "2025-09-10"
+        time: "09:00"
+        duration: "3 days"
+      location:
+        city: "San Francisco"
+        country: "USA"
+        coordinates:
+          latitude: 37.7849
+          longitude: -122.2968
+      tickets:
+        price: 599.99
+        currency: "USD"
+        available: 1000
+      organizer:
+        name: "Tech Events Inc"
+        contact: "info@techevents.com"
+
+    - name: "Medical Congress"
+      venue: "ExCel Center"
+      capacity: 2500
+      type: "Academic"
+      datetime:
+        date: "2025-10-15"
+        time: "08:30"
+        duration: "4 days"
+      location:
+        city: "Berlin"
+        country: "Germany"
+        coordinates:
+          latitude: 52.5200
+          longitude: 13.4050
+      tickets:
+        price: 799.99
+        currency: "EUR"
+        available: 800
+      organizer:
+        name: "European Medical Association"
+        contact: "congress@ema.eu"
+
+  sports:
+    - name: "World Championship Finals"
+      venue: "National Stadium"
+      capacity: 80000
+      type: "Tournament"
+      datetime:
+        date: "2025-08-15"
+        time: "20:00"
+        duration: "3h"
+      location:
+        city: "Tokyo"
+        country: "Japan"
+        coordinates:
+          latitude: 35.6762
+          longitude: 139.7158
+      tickets:
+        price: 150.00
+        currency: "JPY"
+        available: 10000
+      organizer:
+        name: "World Sports Federation"
+        contact: "tickets@wsf.org"
+
+    - name: "Marathon City Run"
+      venue: "City Streets"
+      capacity: 25000
+      type: "Race"
+      datetime:
+        date: "2025-04-20"
+        time: "07:00"
+        duration: "6h"
+      location:
+        city: "Boston"
+        country: "USA"
+        coordinates:
+          latitude: 42.3601
+          longitude: -71.0589
+      tickets:
+        price: 120.00
+        currency: "USD"
+        available: 15000
+      organizer:
+        name: "Boston Athletics"
+        contact: "run@bostonmarathon.com"
+
+    - name: "Tennis Open"
+      venue: "Sports Complex"
+      capacity: 15000
+      type: "Tournament"
+      datetime:
+        date: "2025-07-01"
+        time: "11:00"
+        duration: "14 days"
+      location:
+        city: "Melbourne"
+        country: "Australia"
+        coordinates:
+          latitude: -37.8136
+          longitude: 144.9631
+      tickets:
+        price: 200.00
+        currency: "AUD"
+        available: 5000
+      organizer:
+        name: "Australian Tennis Federation"
+        contact: "info@austennis.org"

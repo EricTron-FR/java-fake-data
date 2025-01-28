@@ -70,7 +70,4 @@ public class Mail {
         List<String> gmailList = data.get("mails").get("gmail");
         return gmailList.get(random.nextInt(gmailList.size()));
     }
-
-
-
 }

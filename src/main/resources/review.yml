@@ -1,0 +1,19 @@
+reviews:
+  positive:
+    - "Excellent product, highly recommend!"
+    - "Perfect quality, exceeded my expectations"
+    - "Outstanding customer service and fast shipping"
+    - "Best purchase I've made in a while"
+    - "Amazing value for money"
+  neutral:
+    - "Product is okay but a bit pricey"
+    - "Average quality, could be better"
+    - "Decent product but long delivery time"
+    - "Not bad, but not great either"
+    - "Does the job but nothing special"
+  negative:
+    - "Disappointed with the quality"
+    - "Does not match the description"
+    - "Poor customer service experience"
+    - "Wouldn't recommend"
+    - "Not worth the price"
